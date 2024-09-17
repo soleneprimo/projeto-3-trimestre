@@ -1,1 +1,1 @@
-# projeto-3-trimestre
+#Projeto desenvolvido para a disciplina de Programação - 3º Trimestre 
